@@ -1,0 +1,211 @@
+/**********************************************
+      Finename: custom.css
+      Author: Max
+      Date: june 19, 24
+
+      Index
+
+      
+      1. General
+      2. Header
+      3. Content
+      4. Footer
+**********************************************/
+
+/*********************************************
+     1. General
+**********************************************/
+body{
+    background-color: rgb(#fff6ff);
+}
+
+.poppins-thin {
+     font-family: "Poppins", sans-serif;
+     font-weight: 100;
+     font-style: normal;
+   }
+   
+   .poppins-extralight {
+     font-family: "Poppins", sans-serif;
+     font-weight: 200;
+     font-style: normal;
+   }
+   
+   .poppins-light {
+     font-family: "Poppins", sans-serif;
+     font-weight: 300;
+     font-style: normal;
+   }
+   
+   .poppins-regular {
+     font-family: "Poppins", sans-serif;
+     font-weight: 400;
+     font-style: normal;
+   }
+   
+   .poppins-medium {
+     font-family: "Poppins", sans-serif;
+     font-weight: 500;
+     font-style: normal;
+   }
+   
+   .poppins-semibold {
+     font-family: "Poppins", sans-serif;
+     font-weight: 600;
+     font-style: normal;
+   }
+   
+   .poppins-bold {
+     font-family: "Poppins", sans-serif;
+     font-weight: 700;
+     font-style: normal;
+   }
+   
+   .poppins-extrabold {
+     font-family: "Poppins", sans-serif;
+     font-weight: 800;
+     font-style: normal;
+   }
+   
+   .poppins-black {
+     font-family: "Poppins", sans-serif;
+     font-weight: 900;
+     font-style: normal;
+   }
+   
+   .poppins-thin-italic {
+     font-family: "Poppins", sans-serif;
+     font-weight: 100;
+     font-style: italic;
+   }
+   
+   .poppins-extralight-italic {
+     font-family: "Poppins", sans-serif;
+     font-weight: 200;
+     font-style: italic;
+   }
+   
+   .poppins-light-italic {
+     font-family: "Poppins", sans-serif;
+     font-weight: 300;
+     font-style: italic;
+   }
+   
+   .poppins-regular-italic {
+     font-family: "Poppins", sans-serif;
+     font-weight: 400;
+     font-style: italic;
+   }
+   
+   .poppins-medium-italic {
+     font-family: "Poppins", sans-serif;
+     font-weight: 500;
+     font-style: italic;
+   }
+   
+   .poppins-semibold-italic {
+     font-family: "Poppins", sans-serif;
+     font-weight: 600;
+     font-style: italic;
+   }
+   
+   .poppins-bold-italic {
+     font-family: "Poppins", sans-serif;
+     font-weight: 700;
+     font-style: italic;
+   }
+   
+   .poppins-extrabold-italic {
+     font-family: "Poppins", sans-serif;
+     font-weight: 800;
+     font-style: italic;
+   }
+   
+   .poppins-black-italic {
+     font-family: "Poppins", sans-serif;
+     font-weight: 900;
+     font-style: italic;
+   }
+   
+/**********************************************
+     2. Header
+**********************************************/
+header{
+     color: #ffffff;
+     background: rgb(124,179,66);
+background: linear-gradient(0deg, rgba(124,179,66,1) 7%, rgba(139,195,74,1) 18%, rgba(104,159,56,1) 33%);
+
+}
+
+#background-map{
+  background-image: url(../imagens/map.png);
+  background-repeat: no-repeat;
+  
+  background-position: 100% -100px;
+  
+
+}
+
+header nav{   
+
+  background: rgb(124,179,66);
+background: linear-gradient(0deg, rgba(124,179,66,1) 0%, rgba(139,195,74,1) 0%, rgba(104,159,56,1) 0%);
+
+box-shadow: none;
+}
+
+#title{
+  font-size: xx-large;
+}
+
+
+
+#nav-mobile{
+  color: #ffffff;
+}
+
+
+/**********************************************
+     3. Content
+**********************************************/
+
+#seta{
+  font-weight: bold;
+  color: #689f38;
+}
+
+#fotos{ 
+  
+  color: #689f38;
+}
+
+#card-b  {
+  background: #cddc39;
+  color: #ffffff;
+}
+
+#text-1 {
+  
+}
+
+#text-2 {
+ 
+}
+
+#text-3 {
+  
+}
+
+#text-4 {
+ 
+}
+
+/**********************************************
+     4. Fooder
+**********************************************/
+
+footer{
+  background: rgb(124,179,66);
+background: linear-gradient(180deg, rgba(124,179,66,1) 17%, rgba(124,179,66,1) 41%, rgba(104,159,56,1) 67%);
+
+}
