@@ -149,7 +149,7 @@ background: linear-gradient(0deg, rgba(124,179,66,1) 7%, rgba(139,195,74,1) 18%,
 header nav{   
 
   background: rgb(124,179,66);
-background: linear-gradient(0deg, rgba(124,179,66,1) 0%, rgba(139,195,74,1) 0%, rgba(104,159,56,1) 0%);
+background: linear-gradient(0deg, rgb(106, 193, 14) 0%, rgba(139,195,74,1) 0%, rgba(104,159,56,1) 0%);
 
 box-shadow: none;
 }
@@ -157,6 +157,8 @@ box-shadow: none;
 #title{
   font-size: xx-large;
 }
+
+
 
 
 
